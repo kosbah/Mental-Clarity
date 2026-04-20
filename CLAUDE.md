@@ -1,12 +1,16 @@
 # Mental Clarity — BMad Skill Menu
 
+> **Rules for Claude:**
+> - If the user types just **"help"**, immediately read and follow `.claude/skills/bmad-help/SKILL.md`
+> - Whenever you reference a skill path or file name in any response, always wrap it in a code block for easy copy/paste
+
 To run any skill, say: **"Read and follow `.claude/skills/<skill-name>/SKILL.md`"**
 
 ---
 
 ## Where am I in the workflow?
 
-**"Read and follow `.claude/skills/bmad-help/SKILL.md`"**
+Type **"help"** — Claude will run BMad Help automatically.
 
 ---
 
